@@ -1,14 +1,7 @@
 {
-  "data" : [
-    { 
-           "store_ids" : 
-                  [
-                     {
-                      "store_id" : "store_1",
-                      "phone_number" : "9012345678",
-                      "password" : "testing"
-                   }
-              ],
-    }
-  ]
+    "login_data": [
+        {"store_id" : "store_1",
+        "mobilenumber": "9012345678",
+        "password": "testing"},
+    ]
 }
