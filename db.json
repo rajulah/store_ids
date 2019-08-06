@@ -1,0 +1,14 @@
+{
+  "data" : [
+    { 
+           "store_ids" : 
+                  [
+                     {
+                      "store_id" : "store_1",
+                      "phone_number" : "9012345678",
+                      "password" : "testing"
+                   }
+              ],
+    }
+  ]
+}
