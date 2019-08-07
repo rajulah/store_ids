@@ -1,8 +1,5 @@
 {
-    "login_data": [
-        {"id" : 1,
-         "store_id" : "store_1",
-        "mobilenumber": "9012345678",
+    "login_data":
+        {
         "password": "testing"}
-    ]
 }
